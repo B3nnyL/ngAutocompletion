@@ -1,0 +1,50 @@
+
+h1{
+    font-size: 48px;  
+}
+ 
+ input {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/VisualEditor_-_Icon_-_Search-big.svg/768px-VisualEditor_-_Icon_-_Search-big.svg.png);
+    background-repeat: no-repeat;
+    background-position: 18px 4px;
+    -webkit-box-shadow: 0 5px 18px 0 rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 5px 18px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 5px 18px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.2);
+    margin: 80px auto 10px auto;
+    padding: 15px 10px;
+    position: relative;
+    outline: none;
+    padding-left: 88px;
+    background-size: 50px;
+    height: 30px;
+    width: 250px;
+    border-radius: 1px;
+    background-color: #ffffff;
+    color: #9b9b9b; 
+    font-size: 18px;
+    border: none;
+  }
+
+  ul li {
+    list-style: none;
+    margin: 10px auto 10px auto;
+    width: 280px;
+    height: 36px;
+    text-align: left;
+    border-left:5px solid #003842;
+    background-color:#f2f2f2;;
+    padding: 10px 0px 0px 25px;
+  }
+
+  ul li:hover{
+    background-color:#f9f9f9;
+    border-color:#00BDE8;
+    transition: background-color 0.5s;
+    transition: border-color 0.5s;
+  }
+
+  ul li a{
+    font-size: 18px;
+    color: #3a3a3a;
+  }
